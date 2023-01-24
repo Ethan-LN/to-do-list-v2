@@ -452,6 +452,11 @@ footer a {
     font-size: 1.5em;
   }
 
+  .logo img {
+    height: 50px;
+    width: auto;
+  }
+
   .title {
     width: 95%;
   }
