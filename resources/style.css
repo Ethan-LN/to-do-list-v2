@@ -426,7 +426,7 @@ footer a {
   .cards {
     max-width: 100%;
   }
-  
+
 }
 
 /* comma is or, and is and */
@@ -450,10 +450,6 @@ footer a {
   /* find a way to not use important */
   .logo h1 {
     font-size: 1.5em;
-  }
-
-  .logo img {
-    height: 50px;
   }
 
   .title {
