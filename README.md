@@ -6,7 +6,7 @@
 #### https://docs.google.com/document/d/1etsFuxsNFCRHA3Fr7yvywWOKVHHnBjj-PrPiugZ8y0Q/edit#
 
 ## Website
-#### https://jerinabraham2.github.io/to-do-list/
+#### https://ethan-ln.github.io/to-do-list-v2/
 
 ## Collaborators
 
